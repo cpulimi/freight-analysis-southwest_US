@@ -136,3 +136,4 @@ dmypy.json
 # Data
 data/raw/*
 !data/raw/.gitkeep
+.DS_Store
